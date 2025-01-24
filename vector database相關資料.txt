@@ -1,0 +1,7 @@
+Milvus相關需要的資源:
+
+1. dockery載點:https://www.docker.com/
+2.向量資料庫概念(強推要看):https://youtu.be/W_ZUUDJsUtA
+			   https://youtu.be/ct20Kv8yn0U
+3.faiss github:https://github.com/facebookresearch/faiss/wiki
+4.faiss論文:https://arxiv.org/pdf/2401.08281
