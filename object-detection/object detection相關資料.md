@@ -42,3 +42,14 @@
 ## TensorFlow 自行訓練模型
 - **Faster R-CNN Inception ResNet V2（Kaggle）**  
   [TensorFlow Faster R-CNN Inception ResNet V2](https://www.kaggle.com/models/tensorflow/faster-rcnn-inception-resnet-v2/tensorFlow2/640x640/1)
+
+# TensorFlow安裝流程(2025/2/12)
+**你可以依照2/5號的tensorflow安裝指南來做但請注意下載的版本可以參考後面的連結，[TensorFlow 2 Object Detection API tutorial documentation](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html)，因為目前他們已停止windows使用gpu的版本，只支援到tensorflow2.10.0的版本，想知道詳細的軟件配置可以參考這邊[Build from source on Windows](https://tensorflow.google.cn/install/source_windows)。**
+
+**如果安裝cuda11.2有出現問題可以參考這幾篇文章：**
+- [win11在已有cuda12.6情形下如何配置tensorflow-gpu_cuda12.6对应的tensorflow-CSDN博客](https://blog.csdn.net/2201_75372819/article/details/142532068?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-142532068-blog-119043543.235^v43^pc_blog_bottom_relevance_base7&spm=1001.2101.3001.4242.1&utm_relevant_index=2)
+- [配置Tensorflow使用CUDA进行GPU加速(超详细教程)_tensorflow cuda-CSDN博客](https://blog.csdn.net/m0_51302496/article/details/137185657)
+
+**CUDA與Cudnn相關安裝連結**
+- [CUDA Toolkit 11.2 Downloads](https://developer.nvidia.com/cuda-11.2.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
+- [Cudnnv8.1.0(cuDNN Archive | NVIDIA Developer)](https://developer.nvidia.com/rdp/cudnn-archive)
