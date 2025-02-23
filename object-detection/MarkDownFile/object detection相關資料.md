@@ -53,3 +53,9 @@
 **CUDA與Cudnn相關安裝連結**
 - [CUDA Toolkit 11.2 Downloads](https://developer.nvidia.com/cuda-11.2.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
 - [Cudnnv8.1.0(cuDNN Archive | NVIDIA Developer)](https://developer.nvidia.com/rdp/cudnn-archive)
+
+# TensorFlow使用版本(2025/02/19)
+![alt text](image.png)
+conda create -n tensorflow pip python=3.9
+
+[Protocol Buffers 3.19.6](https://github.com/protocolbuffers/protobuf/releases/tag/v3.19.6)
